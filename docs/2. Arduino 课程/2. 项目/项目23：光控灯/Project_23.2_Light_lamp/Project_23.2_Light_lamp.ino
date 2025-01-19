@@ -3,7 +3,7 @@
 Keyes 2021入门学习套件
 Project 23.2
 Light_lamp
-http//www.keyestudio.com
+http//www.keyes-robot.com
 */
 int photocellpin=A0;// 初始化连接光敏电阻的模拟管脚A0
 int ledpin=11;// 初始化数字管脚11

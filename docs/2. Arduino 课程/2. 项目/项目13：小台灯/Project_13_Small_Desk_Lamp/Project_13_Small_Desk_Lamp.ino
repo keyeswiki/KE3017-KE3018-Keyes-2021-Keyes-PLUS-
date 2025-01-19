@@ -3,7 +3,7 @@
 Keyes 2021入门学习套件
 Project 13
 Small_Desk_Lamp
-http//www.keyestudio.com
+http//www.keyes-robot.com
 */
 int buttonPin = 5;               //按钮连接到数字5
 int ledPin = 12;                 //LED连接到数字12

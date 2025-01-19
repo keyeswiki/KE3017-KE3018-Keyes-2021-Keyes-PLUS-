@@ -3,7 +3,7 @@
 Keyes 2021入门学习套件
 Project 16
 I2C 1602 LCD
-http//www.keyestudio.com
+http//www.keyes-robot.com
 */
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
@@ -19,6 +19,6 @@ void loop()
 lcd.setCursor(2,0);
 lcd.print("Hello, world!");
 lcd.setCursor(2,1);
-lcd.print("keyestudio!");
+lcd.print("keyes!");
 }
 //*********************************************************************************

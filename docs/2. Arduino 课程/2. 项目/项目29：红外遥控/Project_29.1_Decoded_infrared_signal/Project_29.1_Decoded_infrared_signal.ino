@@ -3,7 +3,7 @@
 Keyes 2021入门学习套件
 Project 29.1
 Decoded_infrared_signal
-http//www.keyestudio.com
+http//www.keyes-robot.com
 */
 #include <IRremote.h>
 int RECV_PIN = 11;

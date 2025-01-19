@@ -3,7 +3,7 @@
 Keyes 2021入门学习套件
 Project 11
 Four_segment_display
-http//www.keyestudio.com
+http//www.keyes-robot.com
 */
 #include "TM1650.h"
 #define CLK A5    //TM1650引脚定义，也可以更改为其他端口       

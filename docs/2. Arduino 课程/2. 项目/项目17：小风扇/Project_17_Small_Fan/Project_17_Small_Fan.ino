@@ -3,7 +3,7 @@
 Keyes 2021入门学习套件
 Project 17
 Small_Fan
-http//www.keyestudio.com
+http//www.keyes-robot.com
 */
 void setup(){
   pinMode(A3, OUTPUT);//数字口A3设置为输出

@@ -3,7 +3,7 @@
 Keyes 2021入门学习套件
 Project 18
 Steering_gear_rotating
-http//www.keyestudio.com
+http//www.keyes-robot.com
 */
 #include <Servo.h>
 Servo myservo;// 定义舵机名

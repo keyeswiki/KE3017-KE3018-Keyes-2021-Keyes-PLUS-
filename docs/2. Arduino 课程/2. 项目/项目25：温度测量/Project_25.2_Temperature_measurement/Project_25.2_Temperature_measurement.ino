@@ -3,7 +3,7 @@
 Keyes 2021入门学习套件
 Project 25.2
 Temperature_measurement
-http//www.keyestudio.com
+http//www.keyes-robot.com
 */
 #define sensorPin  A1
 #define greenLED 8

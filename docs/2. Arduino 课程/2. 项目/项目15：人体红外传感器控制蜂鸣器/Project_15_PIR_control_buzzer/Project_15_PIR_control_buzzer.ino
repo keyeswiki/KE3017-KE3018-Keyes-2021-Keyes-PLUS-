@@ -3,7 +3,7 @@
 Keyes 2021入门学习套件 
 Project 15
 PIR_control_buzzer
-http//www.keyestudio.com
+http//www.keyes-robot.com
 */
 
 int buzzerpin = 8;  // 蜂鸣器引脚

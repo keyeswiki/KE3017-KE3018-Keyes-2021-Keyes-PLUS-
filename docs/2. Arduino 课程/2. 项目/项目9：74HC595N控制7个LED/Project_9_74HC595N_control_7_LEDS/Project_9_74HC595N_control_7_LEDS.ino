@@ -3,7 +3,7 @@
 Keyes 2021入门学习套件 
 Project 9
 74HC595N_control_7_LEDS
-http//www.keyestudio.com
+http//www.keyes-robot.com
 */
 int data = 4;// 将74hc5954引脚设置为数据输入引脚SI 
 int clock = 6;// 将74hc595的6引脚设置为时钟引脚SCK

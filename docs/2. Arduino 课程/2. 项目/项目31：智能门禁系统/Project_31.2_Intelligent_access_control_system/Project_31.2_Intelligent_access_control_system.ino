@@ -3,7 +3,7 @@
 Keyes 2021入门学习套件
 Project 31.2
 Intelligent_access_control_system
-http//www.keyestudio.com
+http//www.keyes-robot.com
 */
 #include <Wire.h>
 #include "MFRC522_I2C.h"

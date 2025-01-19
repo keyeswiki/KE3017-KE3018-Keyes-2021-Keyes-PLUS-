@@ -3,7 +3,7 @@
 Keyes 2021入门学习套件 
 Project 7
 Active_buzzer 
-http//www.keyestudio.com
+http//www.keyes-robot.com
 */
 int buzzerPin = 8;
 void setup ()

@@ -3,7 +3,7 @@
 Keyes 2021入门学习套件
 Project 30.2
 The_temperature_instrument
-http//www.keyestudio.com
+http//www.keyes-robot.com
 */
 #include <math.h>
 #include <Wire.h>

@@ -3,7 +3,7 @@
 Keyes 2021入门学习套件
 Project 14
 Electronic_Hourglass
-http//www.keyestudio.com
+http//www.keyes-robot.com
 */
 const byte SWITCH_PIN = 4; // 将倾斜开关连接到D4
 byte switch_state = 0;

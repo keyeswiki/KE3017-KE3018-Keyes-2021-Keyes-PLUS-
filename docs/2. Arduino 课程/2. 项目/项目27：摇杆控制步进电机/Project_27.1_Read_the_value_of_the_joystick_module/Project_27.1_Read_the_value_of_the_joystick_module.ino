@@ -3,7 +3,7 @@
 Keyes 2021入门学习套件
 Project 27.1
 Read_the_value_of_the_joystick_module
-http//www.keyestudio.com
+http//www.keyes-robot.com
 */
 int VRx = A0;
 int VRy = A1;

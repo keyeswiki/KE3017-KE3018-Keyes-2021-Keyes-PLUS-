@@ -3,7 +3,7 @@
 Keyes 2021入门学习套件
 Project 25.1
 Read_the_LM35_temperature_value
-http//www.keyestudio.com
+http//www.keyes-robot.com
 */
 #define sensorPin A1
 void setup()

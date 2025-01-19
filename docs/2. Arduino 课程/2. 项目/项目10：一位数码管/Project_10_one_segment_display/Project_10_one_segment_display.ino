@@ -3,7 +3,7 @@
 Keyes 2021入门学习套件 
 Project 10
 one_segment_display
-http//www.keyestudio.com
+http//www.keyes-robot.com
 */
 // 设置每段的IO引脚
 int a=7;// 设置a段数字引脚为7

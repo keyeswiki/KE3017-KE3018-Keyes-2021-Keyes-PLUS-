@@ -3,7 +3,7 @@
 Keyes 2021入门学习套件
 Project 34.2
 WIFI control LED
-http//www.keyestudio.com 
+http//www.keyes-robot.com 
 */
 const int ledPin = 13;
 char wifiData;

@@ -3,7 +3,7 @@
 Keyes 2021入门学习套件
 Project 21.1
 Read_the_adjustable_potentiometer_analog_value
-http//www.keyestudio.com
+http//www.keyes-robot.com
 */
 int potpin=A1;//初始化可调电位器的模拟引脚A1
 int val=0;// 定义val,初始值赋为0

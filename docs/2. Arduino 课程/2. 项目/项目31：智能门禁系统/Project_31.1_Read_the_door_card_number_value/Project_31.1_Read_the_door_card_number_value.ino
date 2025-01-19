@@ -3,7 +3,7 @@
 Keyes 2021入门学习套件
 Project 31.1
 Read_the_door_card_number_value
-http//www.keyestudio.com
+http//www.keyes-robot.com
 */
 #include <Wire.h>
 #include "MFRC522_I2C.h"

@@ -3,7 +3,7 @@
 Keyes 2021入门学习套件
 Project 30.1
 Read_the_thermistor_analog_value
-http//www.keyestudio.com
+http//www.keyes-robot.com
 */
 #include<math.h>
 

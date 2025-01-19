@@ -3,7 +3,7 @@
 Keyes 2021入门学习套件
 Project 26.2
 Ultrasonic_range_finder
-http//www.keyestudio.com
+http//www.keyes-robot.com
 */
 const int trig = 12;
 const int echo = 13;

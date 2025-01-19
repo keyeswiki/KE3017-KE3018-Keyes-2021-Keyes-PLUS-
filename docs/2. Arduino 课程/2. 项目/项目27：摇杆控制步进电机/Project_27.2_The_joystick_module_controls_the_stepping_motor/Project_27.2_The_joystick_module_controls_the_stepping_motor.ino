@@ -3,7 +3,7 @@
 Keyes 2021入门学习套件
 Project 27.2
 The_joystick_module_controls_the_stepping_motor 
-http//www.keyestudio.com
+http//www.keyes-robot.com
 */
 const int X_pin = 0; // 模拟引脚A0连接到X输出
 const int Y_pin = 1; // 模拟引脚A1连接到Y输出

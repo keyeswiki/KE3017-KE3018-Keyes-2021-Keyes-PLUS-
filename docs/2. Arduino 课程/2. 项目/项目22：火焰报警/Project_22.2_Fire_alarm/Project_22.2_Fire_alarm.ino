@@ -3,7 +3,7 @@
 Keyes 2021入门学习套件
 Project 22.2
 Fire_alarm
-http//www.keyestudio.com
+http//www.keyes-robot.com
 */
 const int red = 11;
 const int green = 10;

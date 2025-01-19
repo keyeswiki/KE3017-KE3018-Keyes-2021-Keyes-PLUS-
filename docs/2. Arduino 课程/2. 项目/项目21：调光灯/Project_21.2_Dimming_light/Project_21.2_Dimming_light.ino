@@ -3,7 +3,7 @@
 Keyes 2021入门学习套件
 Project 21.2
 Dimming_light
-http//www.keyestudio.com
+http//www.keyes-robot.com
 */
 int potpin=A1;// 初始化可调电位器的模拟引脚A1
 int ledpin=11;// 初始化数字引脚11

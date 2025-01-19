@@ -3,7 +3,7 @@
 Keyes 2021入门学习套件
 Project 29.2
 Infrared_remote_control
-http//www.keyestudio.com
+http//www.keyes-robot.com
 */
 #include <IRremote.h>
 int IR_Recv = 11;   //红外接收器引脚11

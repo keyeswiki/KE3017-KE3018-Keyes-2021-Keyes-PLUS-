@@ -3,7 +3,7 @@
 Keyes 2021入门学习套件 
 Project 5
 RGB LED
-http//www.keyestudio.com
+http//www.keyes-robot.com
 */
 int redpin = 11; //选择红色LED的引脚
 int bluepin =9; // 选择蓝色LED的引脚

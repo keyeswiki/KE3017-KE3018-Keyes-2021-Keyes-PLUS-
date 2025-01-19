@@ -3,7 +3,7 @@
 Keyes 2021入门学习套件
 Project 2
 LED_Blinking 
-http//www.keyestudio.com
+http//www.keyes-robot.com
 */
 int ledPin = 10; // 定义数字引脚10.
 void setup()

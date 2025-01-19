@@ -3,7 +3,7 @@
 Keyes 2021入门学习套件 
 Project 8
 Passive_buzzer
-http//www.keyestudio.com
+http//www.keyes-robot.com
 */
 #define NOTE_B0  31
 #define NOTE_C1  33

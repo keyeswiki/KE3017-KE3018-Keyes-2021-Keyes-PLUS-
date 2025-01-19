@@ -3,7 +3,7 @@
 Keyes 2021入门学习套件 
 Project 6
 Running_water_light
-http//www.keyestudio.com
+http//www.keyes-robot.com
 */
 int BASE = 2 ;// 第一个LED的I/O引脚
 int NUM = 5; // LED 数量

@@ -3,7 +3,7 @@
 Keyes 2021入门学习套件
 Project 24.2
 Smart_fan
-http//www.keyestudio.com
+http//www.keyes-robot.com
 */
 void setup() {
   Serial.begin(9600);

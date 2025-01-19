@@ -3,7 +3,7 @@
 Keyes 2021入门学习套件
 Project 1
 Hello World
-http//www.keyestudio.com
+http//www.keyes-robot.com
 */
 char val;//定义变量val.
 void setup()

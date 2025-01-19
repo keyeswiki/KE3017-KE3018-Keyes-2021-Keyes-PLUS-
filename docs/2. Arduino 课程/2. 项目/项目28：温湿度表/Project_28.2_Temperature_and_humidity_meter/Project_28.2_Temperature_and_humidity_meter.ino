@@ -3,7 +3,7 @@
 Keyes 2021入门学习套件
 Project 28.2
 Temperature_and_humidity_meter
-http//www.keyestudio.com
+http//www.keyes-robot.com
 */
 #include "DHT.h"
 #define DHTPIN 11     // 连接DHT传感器的数字引脚

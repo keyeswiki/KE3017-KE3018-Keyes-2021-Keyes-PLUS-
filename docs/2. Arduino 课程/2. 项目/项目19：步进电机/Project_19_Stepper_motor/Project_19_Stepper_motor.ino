@@ -3,7 +3,7 @@
 Keyes 2021入门学习套件
 Project 19
 Stepper_motor
-http//www.keyestudio.com
+http//www.keyes-robot.com
 */
 // 步进电机引脚
 const int IN1_pin = 11;
