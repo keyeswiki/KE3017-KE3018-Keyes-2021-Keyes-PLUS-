@@ -1,7 +1,7 @@
 
 .. toctree::
    :maxdepth: 3
-   :caption: KE3017-KE3018 Keyes 2021入门学习套件 高级版
+   :caption: KE3017-KE3018 Keyes入门学习套件高级版基于Arduino
 
    README.md
    docs/index
@@ -10,7 +10,7 @@
    docs/2. Arduino 课程/2. Arduino 课程
    docs/3. Mixly 课程/3. Mixly 课程.md
    docs/4. Scratch 课程/4. Scratch 课程.md
-   docs/
+  
 
 
 
